@@ -1,1 +1,1 @@
-deployed at https://www.stevenweatherapp.herokuapp.com
+deployed at https://stevenweatherapp.herokuapp.com/
